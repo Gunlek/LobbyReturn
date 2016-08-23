@@ -1,0 +1,8 @@
+author: Gunlek
+version: 1.0
+main: com.simpleduino.lobbyreturn.LobbyReturnPlugin
+name: LobbyReturn
+commands:
+  lobby:
+    description: Retournez au lobby en un éclair !
+    aliases: [lobby, hub]
